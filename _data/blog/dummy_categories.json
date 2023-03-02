@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Blockchain",
+        "slug": "blockchain",
+        "content": ""
+    },
+    {
+        "title": "Web3",
+        "slug": "web3",
+        "content": ""
+    },
+    {
+        "title": "Crypto",
+        "slug": "crypto",
+        "content": ""
+    },
+    {
+        "title": "Python",
+        "slug": "python",
+        "content": ""
+    },
+    {
+        "title": "Go",
+        "slug": "golang",
+        "content": ""
+    },
+    {
+        "title": "JavaScript",
+        "slug": "javascript",
+        "content": ""
+    },
+    {
+        "title": "Rust",
+        "slug": "rust",
+        "content": ""
+    },
+    {
+        "title": "Backend",
+        "slug": "backend",
+        "content": ""
+    },
+    {
+        "title": "Frontend",
+        "slug": "frontend",
+        "content": ""
+    }
+]
